@@ -51,8 +51,7 @@ var education = {
       'location': 'Almalz - Riyadh',
       'degree': 'Bachelor',
       'majors': ['Computer Science and Information Technology'],
-      'dates': '2008 - 2011',
-      'url': 'http://ksu.edu.sa/'
+      'dates': '2008 - 2011'
     },
     {
       'name': '45 Secondry Schools',
